@@ -77,4 +77,4 @@ I'm a passionate AI Engineer and Full Stack Developer specializing in building i
 
 
 ---
-⭐️ From [YourUsername](https://github.com/hamzaq453)
+⭐️ From [Hamza Qureshi](https://github.com/hamzaq453)
