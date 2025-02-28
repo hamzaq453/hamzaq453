@@ -72,7 +72,7 @@ I'm a passionate AI Engineer and Full Stack Developer specializing in building i
 - [LinkedIn](https://www.linkedin.com/in/hamza-qureshi-21b61a249/)
 - [GitHub](https://github.com/hamzaq453)
 - [Portfolio](https://hamzaqureshi-one.vercel.app/)
-- Email: hamzaqureshi2000@gmail.com
+- Email: qhamza4532@gmail.com
 
 
 
