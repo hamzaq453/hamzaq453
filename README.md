@@ -1,79 +1,110 @@
 # Hamza Qureshi
-### AI Engineer | Full Stack Developer | Autonomous Systems Developer
+### Full Stack AI Engineer · Team Lead at Evren AI · LangGraph & Multi-Agent Systems
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-qureshii/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qhamza4532@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzaq453)
+
+---
 
 ## 👋 About Me
-I'm a passionate AI Engineer and Full Stack Developer specializing in building intelligent systems and autonomous agents. With expertise in LangChain, LangGraph, and modern web technologies, I create cutting-edge AI solutions that bridge the gap between advanced AI capabilities and practical applications.
 
-## 🚀 Expertise
-- 🤖 **AI Development**: Building autonomous agents, intelligent systems, and advanced chatbots
-- 🧠 **LLM Engineering**: Developing with LangChain, LangGraph, and various Large Language Models
-- 💻 **Full Stack**: Creating seamless web applications with Next.js, React, and FastAPI
-- 🔄 **DevOps**: Containerization with Docker and efficient deployment workflows
+Full Stack AI Engineer with **5 years** of production experience building LLM-powered platforms, multi-agent systems, and real-time AI applications for US-based clients. Currently serving as **Team Lead at Evren AI**, where I architect and ship agentic backends, voice AI systems, and healthcare platforms.
+
+- 🧠 Specializing in **LangGraph multi-agent orchestration**, RAG systems, and production AI pipelines
+- 🏥 Delivered AI systems in **healthcare, fintech, edtech, and HR tech** verticals
+- 🚀 Led 25+ end-to-end production projects from architecture to live deployment
+- 🤝 Currently building: AI agents, MCP-powered developer tools, and agentic SaaS platforms
+
+---
 
 ## 🛠️ Tech Stack
 
-### AI & Machine Learning
-![LangChain](https://img.shields.io/badge/-LangChain-white?style=for-the-badge)
+### AI & LLMs
 ![LangGraph](https://img.shields.io/badge/-LangGraph-blue?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-white?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-FF6B35?style=for-the-badge)
 
-### Frontend Development
+### Frontend
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Sanity.io](https://img.shields.io/badge/-Sanity.io-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 
-### Backend & APIs
-![REST API](https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kong](https://img.shields.io/badge/-Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Databases
+### Backend & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🎓 Education & Certifications
-- **BSc Computer Science** - Virtual University of Pakistan
-- **AI Engineering** - Presidential Institute of Artificial Intelligence and Computing (PIAIC)
-- **Agentic AI Developer** - PIAIC
-- **Full Stack Development** - PIAIC
-
-## 🌟 Featured Projects
-
-### AI Agent Framework
-- Built autonomous AI agents using LangChain and LangGraph
-- Implemented complex decision-making capabilities
-- Integrated with various LLM providers
-- Tech: Python, LangChain, FastAPI
-
-### Intelligent Chatbot Platform
-- Developed an advanced chatbot system with context awareness
-- Implemented real-time response generation
-- Integrated with multiple data sources
-- Tech: Next.js, Python, LangChain
-
-### Full Stack AI Dashboard
-- Created a comprehensive dashboard for AI system monitoring
-- Implemented real-time data visualization
-- Built secure API endpoints
-- Tech: React, FastAPI, Docker
-
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/hamza-qureshii/)
-- [GitHub](https://github.com/hamzaq453)
-- Email: qhamza4532@gmail.com
-
-
+### Voice AI & Real-Time
+![Deepgram](https://img.shields.io/badge/-Deepgram-13EF93?style=for-the-badge)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge)
 
 ---
-⭐️ From [Hamza Qureshi](https://github.com/hamzaq453)
+
+## 🚀 Featured Projects
+
+### 🏥 Jarvis — AI Financial Intelligence Platform (Healthcare)
+> AI-powered financial assistant for Desert Recovery Centers (US). Unified Kipu, Zealie, HubSpot, CTM, and Google Ads into a single conversational interface with LangGraph supervisor + 3 sub-agents, SSE streaming, and HIPAA-aware role-based access for C-suite healthcare leadership.  
+`FastAPI` `LangGraph` `PostgreSQL` `AWS` `SSE Streaming` `Multi-Agent`
+
+---
+
+### 🎓 Converscraft — Real-Time AI Language Learning Platform
+> Gamified language learning platform (German, Spanish, French, English) with sub-2-second end-to-end voice AI (Deepgram STT → GPT-4o → ElevenLabs TTS) and live interruption support. 4+ months in production.  
+`FastAPI` `Next.js` `Deepgram` `ElevenLabs` `WebSockets` `AWS`
+
+---
+
+### 👔 TrackRec — AI Hiring Platform for Sales Teams
+> LLM-powered sales hiring platform serving 18,000+ verified sellers, enabling 450+ job placements and 50% faster hiring cycles. Built AI matching engine and resume parsing pipeline.  
+`Next.js` `FastAPI` `LangChain` `AWS S3` `DigitalOcean`
+
+---
+
+### 🤖 Atlas — Personal AI Operations Agent
+> Open-source personal ops agent managing Gmail, Google Calendar, and GitHub via natural language and voice commands. Multi-agent LangGraph planner/executor with semantic memory, LangSmith tracing, and voice input.  
+`LangGraph` `Gemini` `Deepgram` `PostgreSQL` `AWS EC2`
+
+---
+
+### ⚙️ FastAPI + LangGraph + MCP Starter Template
+> Production-ready boilerplate for AI agents: LangGraph ReAct agent, MCP tool server, SSE streaming, PostgreSQL memory, API key auth, rate limiting, and Docker Compose. Built for the open-source community.  
+`FastAPI` `LangGraph` `MCP` `PostgreSQL` `Docker`
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **BSc Computer Science** — Virtual University of Pakistan (2017–2021)
+- 🤖 **Agentic AI Developer** — PIAIC (2021–2022) · Specialization in LangGraph, LLMs & Autonomous Agents
+
+### 🏅 Professional Certifications
+
+- 🟠 **AWS Certified Generative AI Developer – Professional** *(Nov 2025)*  
+  Validates advanced skills in building and deploying production-ready generative AI applications on AWS, including Bedrock-based solutions, security best practices, and cost-aware implementation.
+
+- 🟠 **AWS Certified Machine Learning Engineer** *(Aug 2024)*  
+  Production ML engineer credential focused on building, deploying, monitoring, and securing machine learning systems on AWS for real-world business use.
+
+- 🔵 **Machine Learning Specialization — DeepLearning.AI / Stanford Online** *(Dec 2022)*  
+  Covers supervised learning, neural networks, decision trees, clustering, recommender systems, and practical ML best practices for real-world AI applications.
+
+- 🔵 **MIT Professional Certificate in Machine Learning & Artificial Intelligence** *(Sep 2021)*  
+  Advanced certificate covering ML foundations, deep learning, NLP, predictive analytics, and practical AI problem-solving.
+
+***
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamza-qureshii/)
+- 💻 [GitHub](https://github.com/hamzaq453)
+- 📧 [qhamza4532@gmail.com](mailto:qhamza4532@gmail.com)
+
+---
+*Building production AI systems that ship.* ⚡
