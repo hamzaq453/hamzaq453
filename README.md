@@ -63,7 +63,7 @@ Full Stack AI Engineer with **3 years** of production experience building LLM-po
 ---
 
 ### 👔 TrackRec — AI Hiring Platform for Sales Teams
-> LLM-powered sales hiring platform serving 18,000+ verified sellers, enabling 450+ job placements and 50% faster hiring cycles. Built AI matching engine and resume parsing pipeline.  
+> LLM-powered sales hiring platform serving 20,000+ verified sellers, enabling 500+ job placements and 50% faster hiring cycles. Built AI matching engine and resume parsing pipeline.  
 `Next.js` `FastAPI` `LangChain` `AWS S3` `DigitalOcean`
 
 ---
