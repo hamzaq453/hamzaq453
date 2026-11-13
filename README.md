@@ -82,21 +82,21 @@ Full Stack AI Engineer with **3 years** of production experience building LLM-po
 
 ## 🎓 Education & Certifications
 
-- 🎓 **BSc Computer Science** — Virtual University of Pakistan (2017–2021)
-- 🤖 **Agentic AI Developer** — PIAIC (2021–2022) · Specialization in LangGraph, LLMs & Autonomous Agents
+- 🎓 **BSc Computer Science** — Virtual University of Pakistan
+- 🤖 **Agentic AI Developer** — PIAIC · Specialization in LangGraph, LLMs & Autonomous Agents
 
 ### 🏅 Professional Certifications
 
-- 🟠 **AWS Certified Generative AI Developer – Professional** *(Nov 2025)*  
+- 🟠 **AWS Certified Generative AI Developer – Professional**
   Validates advanced skills in building and deploying production-ready generative AI applications on AWS, including Bedrock-based solutions, security best practices, and cost-aware implementation.
 
-- 🟠 **AWS Certified Machine Learning Engineer** *(Aug 2024)*  
+- 🟠 **AWS Certified Machine Learning Engineer**
   Production ML engineer credential focused on building, deploying, monitoring, and securing machine learning systems on AWS for real-world business use.
 
-- 🔵 **Machine Learning Specialization — DeepLearning.AI / Stanford Online** *(Dec 2022)*  
+- 🔵 **Machine Learning Specialization — DeepLearning.AI / Stanford Online**   
   Covers supervised learning, neural networks, decision trees, clustering, recommender systems, and practical ML best practices for real-world AI applications.
 
-- 🔵 **MIT Professional Certificate in Machine Learning & Artificial Intelligence** *(Sep 2021)*  
+- 🔵 **MIT Professional Certificate in Machine Learning & Artificial Intelligence** 
   Advanced certificate covering ML foundations, deep learning, NLP, predictive analytics, and practical AI problem-solving.
 
 ***
