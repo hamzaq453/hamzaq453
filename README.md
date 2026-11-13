@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Full Stack AI Engineer with **5 years** of production experience building LLM-powered platforms, multi-agent systems, and real-time AI applications for US-based clients. Currently serving as **Team Lead at Evren AI**, where I architect and ship agentic backends, voice AI systems, and healthcare platforms.
+Full Stack AI Engineer with **3 years** of production experience building LLM-powered platforms, multi-agent systems, and real-time AI applications for US-based clients. Currently serving as **Team Lead at Evren AI**, where I architect and ship agentic backends, voice AI systems, and healthcare platforms.
 
 - 🧠 Specializing in **LangGraph multi-agent orchestration**, RAG systems, and production AI pipelines
 - 🏥 Delivered AI systems in **healthcare, fintech, edtech, and HR tech** verticals
